@@ -1,8 +1,8 @@
-<h1>READ ME</h1>
-<h2>1.Archivos:</h2>
+# READ ME:
+1.Archivos:
   -En el archivo FormMalo, podemos observar que nuestro login no es del todo seguro con Mysql injection.
   -En el archivo FormBueno, hemos solucionado el error del antiguo formulario, solucionando el problea con PDO.
 
-<h2>2.LOGIN & PASSWORD:</h2>
+2.LOGIN & PASSWORD:
   Login=eric passsword=contraseña
   Login=laura password=laura
