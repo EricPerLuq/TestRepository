@@ -1,7 +1,7 @@
 # READ ME:
 1.Archivos:
   -En el archivo FormMalo, podemos observar que nuestro login no es del todo seguro con Mysql injection.
-  -En el archivo FormBueno, hemos solucionado el error del antiguo formulario, solucionando el problea con PDO.
+  -En el archivo FormBueno, hemos solucionado el error del antiguo formulario, solucionando el problema con PDO.
 
 2.LOGIN & PASSWORD:
   Login=eric passsword=contraseña
